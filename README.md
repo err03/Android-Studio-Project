@@ -2,12 +2,22 @@
 
 ## Social Touch Project
 This app have 3 screens : Friend, Public, and Profile <br>
+[Social-Touch Prototype](https://www.figma.com/file/5cDnkr50NecNNPb8w8xgmW/Android-app?node-id=0%3A1)
 |Friend|Chat with Friend|Delete Friend|After Delete Friend|Add Friend|
 ---|---|---|---|---|
-|![friend](https://github.com/err03/Android-Studio-Project/blob/main/assets/socialTouchAssets/img/friend.png)|||||
+|<img src="https://github.com/err03/Android-Studio-Project/blob/main/assets/socialTouchAssets/img/friend.png" height=400 width=280 alt="friend screen">|<img src="https://github.com/err03/Android-Studio-Project/blob/main/assets/socialTouchAssets/img/friend_chatwithfriend.png" height=400 width=280 alt="friend chat">|<img src="https://github.com/err03/Android-Studio-Project/blob/main/assets/socialTouchAssets/img/friend_deletefriend.png" height=400 width=280 alt="friend delete">|<img src="https://github.com/err03/Android-Studio-Project/blob/main/assets/socialTouchAssets/img/friend_afterdeletefriend.png" height=400 width=280 alt="friend after delete">|<img src="https://github.com/err03/Android-Studio-Project/blob/main/assets/socialTouchAssets/img/friend_addFriendNotFound.png" height=400 width=280 alt="friend not found">|
+
+|Public|Public Post|
+---|---|
+|<img src="https://github.com/err03/Android-Studio-Project/blob/main/assets/socialTouchAssets/img/public.png" height=400 width=220 alt="public">|<img src="https://github.com/err03/Android-Studio-Project/blob/main/assets/socialTouchAssets/img/public_postYourmessage.png" height=400 width=220 alt="public post">|
+
+|Profile|Profile Edit|
+---|---|
+|<img src="https://github.com/err03/Android-Studio-Project/blob/main/assets/socialTouchAssets/img/profile.png" height=400 width=220 alt="profile">|<img src="https://github.com/err03/Android-Studio-Project/blob/main/assets/socialTouchAssets/img/profile_edit.png" height=400 width=220 alt="profile edit">|
+
 Welcome to download the **SocialTouch_Presentation.pptx** for more details.
 
-[Social-Touch Prototype](https://www.figma.com/file/5cDnkr50NecNNPb8w8xgmW/Android-app?node-id=0%3A1)
+
 
 ## Classes
 ### Main
