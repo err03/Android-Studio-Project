@@ -2,6 +2,9 @@
 
 ## Social Touch Project
 This app have 3 screens : Friend, Public, and Profile <br>
+|Friend|Chat with Friend|Delete Friend|After Delete Friend|Add Friend|
+---|---|---|---|---|
+|![friend](https://github.com/err03/Android-Studio-Project/blob/main/assets/socialTouchAssets/img/friend.png)|||||
 Welcome to download the **SocialTouch_Presentation.pptx** for more details.
 
 [Social-Touch Prototype](https://www.figma.com/file/5cDnkr50NecNNPb8w8xgmW/Android-app?node-id=0%3A1)
