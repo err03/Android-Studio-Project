@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/et_publishMessage"
+        android:layout_width="261dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="32dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="@+id/publishMessage"
+        app:layout_constraintStart_toStartOf="@+id/publishMessage"
+        app:layout_constraintTop_toBottomOf="@+id/publishMessage" />
+
+    <Button
+        android:id="@+id/publishYesButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Publish"
+        app:layout_constraintStart_toStartOf="@+id/et_publishMessage"
+        app:layout_constraintTop_toBottomOf="@+id/et_publishMessage" />
+
+    <Button
+        android:id="@+id/publishCancelButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Cancel"
+        app:layout_constraintEnd_toEndOf="@+id/et_publishMessage"
+        app:layout_constraintTop_toBottomOf="@+id/et_publishMessage" />
+
+    <TextView
+        android:id="@+id/publishMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Input any message that you want to share"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "584240003123",
+    "firebase_url": "https://android-finalproject-comm-default-rtdb.firebaseio.com",
+    "project_id": "android-finalproject-comm",
+    "storage_bucket": "android-finalproject-comm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584240003123:android:dfc8adb921e7e7a428cb46",
+        "android_client_info": {
+          "package_name": "rit.edu.student.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584240003123-s3n5oore3herd8fk80l2hba7hnm30hrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Jb9P5OSPb4R2QCoR_KPskFdcJYxuRi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584240003123-s3n5oore3herd8fk80l2hba7hnm30hrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
