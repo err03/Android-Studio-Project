@@ -54,3 +54,10 @@ button) and “onCreateOptionsMenu()” (create the menu)<br>
 `message_contact : Fragmemt()` -  user communicate with friend, send message to each other, and update the data to the database, then app will update the data when database update.<br>
 
 `messageRecycleAdapter : RecyclerView.Adapter<FriendRecycleAdapter.ViewHolder>()` - this is to show the user message box, if friend’s message, message box will show in left, if user message box, then it will show in right<br>
+
+## List of features implement
+- Firebase
+- RecycleView + Card
+
+
+![Back To Top](#Android-Studio)
